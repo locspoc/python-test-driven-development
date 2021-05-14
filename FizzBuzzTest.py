@@ -10,5 +10,8 @@
 
 import pytest
 
-def test_canAssertTrue():
-    assert True
+def fizzBuzz( value ):
+    return
+
+def test_canCallFizzBuzz():
+    fizzBuzz(1)
